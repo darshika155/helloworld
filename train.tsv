@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US">
+<head>
+    <title>Office 365 Login | Microsoft Office</title>
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <meta name="description" content="Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, spreadsheets, and presentations online, in OneDrive. Share them with others and work together at the same time." />
+        <meta name="keywords" content="Microsoft Office Online, Collaborate, Free Office, Word Online, PowerPoint Online, Excel Online, OneNote Online, Outlook.com, Outlook, OneDrive, Office Online, Word Web App, PowerPoint Web App, Excel Web App, OneNote Web App, Office templates, Office 365, Microsoft Office 365" />
+        <meta name="google-site-verification" content="0XffSFN_nfS9q6Xu_RDjgA4ZZsTylbD1AYNwisYaBgg" />
+        <meta name="google-site-verification" content="DF77mV5q9pS9MMet9A9Dm7jYAD2x5W26U2gGEuJoPO4" />
+        <meta name="ms.lang" content="en" />
+        <meta name="ms.loc" content="US" />
+        <meta name="awa-market" content="en-US" />
+        <meta name="ms.ocpub.assetid" content="UnauthOhp" />
+        <meta name="ms.env" content="prod" />
+        <meta name="ms.sitever" content="5" />
+        <meta name="awa-ver" content="5" />
+        <meta name="ms.flightid" content="firstrunsmb|airforceone1cf|reactshell" />
+
+<link rel="stylesheet" type="text/css" href="//cin.officehome.msocdn.com/s/4687a190/Areas/Home/Content/js/build/bundles/unauth.css">
+    <link rel="stylesheet" type="text/css" href="//cin.officehome.msocdn.com/s/45aa9c62/Areas/Home/Content/js/build/bundles/sharedfontstyles.css">
+
+    
+    
+
+<link rel="stylesheet" href="https://statics-uhf-eas.akamaized.net/west-european/shell/_scrf/css/themes=default.device=uplevel_web_pc/66-41abaf/ad-ec92c6/98-847609/e9-c399ba/8e-9c6412/cc-c21898/9c-3df1cf?ver=2.0" type="text/css" media="all" />
+
+
+        <link rel="shortcut icon" type="image/x-icon" href="//cin.officehome.msocdn.com/s/7047452e/Images/favicon_metro.ico" />
+
+            <link rel="dns-prefetch" href="//portal.office.com" />
+            <link rel="dns-prefetch" href="//outlook.office.com" />
+            <link rel="dns-prefetch" href="//login.microsoftonline.com" />
+            <link rel="dns-prefetch" href="//agent.office.net" />
+            <link rel="dns-prefetch" href="//shellprod.msocdn.com" />
+            <link rel="dns-prefetch" href="//appsforoffice.microsoft.com" />
+            <link rel="dns-prefetch" href="//cin.officehome.msocdn.com" />
+
+</head>
+<body>
+    <noscript>
+        
+    </noscript>
+
+    
+    <div class="marketing-header floating">
+        
+
+
+
+    <div id="pmg-global-header" class="log-appear">
+            <section id="headerArea"  data-m='{"cN":"headerArea","cT":"Area_coreuiArea","id":"a1Body","sN":1,"aN":"Body"}'>
+                    <div id="headerRegion"     data-region-key="headerregion" data-m='{"cN":"headerRegion","cT":"Region_coreui-region","id":"r1a1","sN":1,"aN":"a1"}' >
+
+    <div  id="headerUniversalHeader" data-m='{"cN":"headerUniversalHeader","cT":"Module_coreui-universalheader","id":"m1r1a1","sN":1,"aN":"r1a1"}'  data-module-id="Category|headerRegion|headerRegion|headerUniversalHeader|coreui-universalheader">
+        
+
+
+
+        <div id="epb" class="x-hidden x-hidden-vp1 x-hidden-vp2 uhfc-universal-context context-uhf" ms.cmpgrp='epb'>
+
+
+
+<div class="c-uhfh-alert f-information epb-container epb-default-color" role="alert" ms.pgarea='Epb v2'>
+    <div>        
+        <p class="c-paragraph">
+                <img alt="Microsoft Edge" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/REZlo1?ver=5722" />
+
+            <span class="c-text-group">
+                <span class="epb-launch">Try Microsoft Edge</span>
+                <span class="epb-text">A fast and secure browser that&#39;s designed for Windows 10</span>
+            </span>
+            <span class="c-group">
+                <button id="close-epb" class="c-action-trigger c-action-cancel glyph-cancel" ms.title='EPB-dismiss'  aria-label="No thanks">No thanks</button>
+                <a id="epbTryNow" aria-label="A fast and secure browser that&#39;s designed for Windows 10" class="epb-launch c-action-trigger c-action-open" ms.title='EPB-launch'>Get started</a>
+            </span>
+
+        </p>
+    </div>
+</div>
+
+            
+        </div>
+
+
+
+        <a data-m='{"pid":"h:de2fb0b1","id":"n1m1r1a1","sN":1,"aN":"m1r1a1"}' class="m-skip-to-main" href="#main" tabindex="0" style="z-index:800" ms.title='Skip to content'>Skip to main content</a>
+
+<header role="banner" class="c-uhfh context-uhf no-js " itemscope="itemscope" data-header-footprint="en-us/office/officeheader"  itemtype="http://schema.org/Organization">
+    <div class="theme-light js-global-head f-closed " ms.pgarea='Universal Header'>
+        <div class="c-uhfh-gcontainer">
+            <button class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="Header navigation menu" aria-expanded="false" ms.title='Mobile menu button'></button>
+            <button class="c-action-trigger c-glyph glyph-arrow-htmllegacy" aria-expanded="false" ms.title='Close Search'></button>
+                    <a data-m='{"pid":"h:32f2fa12","id":"n2m1r1a1","sN":2,"aN":"m1r1a1"}' id="uhfLogo" class="c-logo" itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" ms.cmpgrp='GlobalNav_Logo'>
+                        <img itemprop="logo" itemscope="itemscope" class="c-image" alt="Microsoft" src="https://assets.onestore.ms/cdnfiles/external/uhf/long/9a49a7e9d8e881327e81b9eb43dabc01de70a9bb/images/microsoft-gray.png" />
+                        <span>Microsoft</span>
+                    </a>
+            <div class="f-mobile-title">
+                <button class="c-action-trigger c-glyph glyph-chevron-left" aria-label="See more menu options" ms.title='Mobile back button'></button>
+                <span data-global-title="Microsoft home" class="js-mobile-title">Office</span>
+                <button class="c-action-trigger c-glyph glyph-chevron-right" aria-label="See more menu options" ms.title='Mobile forward button'></button>
+            </div>
+
+            
+            <button class="c-action-trigger c-glyph glyph-chevron-left js-primary-paddle" ms.title='Previous' aria-label="Show previous" tabindex="-1"></button>
+            
+            
+            
+            <button class="c-action-trigger c-glyph glyph-chevron-right js-secondary-paddle" ms.title='Next' aria-label="Show next" tabindex="-1"></button>
+
+                <div class="c-uhfh-actions" ms.cmpgrp='Header actions'>
+                    
+                    
+                    
+                            <div id="meControl" class="c-me" data-signinsettings='{"containerId":"meControl","enabled":true,"headerHeight":48,"debug":false,"extensibleLinks":[],"userData":{"idp":"msa","firstName":"","lastName":"","memberName":"","cid":"","authenticatedState":"3"},"rpData":{"preferredIdp":"aad","msaInfo":{"signInUrl":"","signOutUrl":"","meUrl":"https://login.live.com/me.srf?wa=wsignin1.0"},"aadInfo":{"signOutUrl":"","appId":"4345a7b9-9a63-4910-a426-35363201d503","siteUrl":null,"blockMsaFed":true}}}' ms.cmpgrp='GlobalNav_Account'>
+            <div class="msame_Header">
+                <div class="msame_Header_name">Sign in</div>
+            </div>
+            
+        </div>
+
+                    
+                </div>
+        </div>
+        
+        
+    </div>
+            <div class="theme-light  js-cat-head" itemprop="brand" itemscope="itemscope" itemtype="http://schema.org/Brand" ms.cmpgrp='UHF category nav'>
+
+<div>
+        <a id="uhfCatLogo" class="c-logo" href="https://www.office.com/" aria-label="Office" itemprop="url" ms.title='Office'>
+                <span>Office</span>
+        </a>
+    <a 
+            class="c-call-to-action c-glyph brand-orange"
+            
+            data-m='{"cN":"Buy Office 365","id":"n3m1r1a1","sN":3,"aN":"m1r1a1"}'
+            href="https://products.office.com/compare-microsoft-office-products?tab=1"
+            
+             >
+            <span>Buy Office 365</span>
+        </a>
+
+    <button class="c-action-trigger c-glyph glyph-chevron-left js-primary-paddle" aria-label="Scroll left" title="Scroll left" ms.title='Previous' tabindex="-1"></button>
+    
+    <button class="c-action-trigger c-glyph glyph-chevron-right js-secondary-paddle" aria-label="Scroll right" title="Scroll right" ms.title='Next' tabindex="-1"></button>
+            <nav id="uhf-c-nav" role="navigation" aria-labelledby="uhfCatLogo" class="js-paddle-items">
+
+<div class="c-uhf-menu js-nav-menu">
+                    <button id="Products"  aria-expanded="false" aria-haspopup="true" ms.title='Products'>Products</button>
+                    <ul class=" f-multi-column f-multi-column-4" aria-labelledby="Products" aria-hidden="true" ms.cmpnm='Products'>
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm='ForHome'>
+
+        <button id="Forhome&gt;-navigation"  aria-expanded="false" ms.title='ForHome' ms.interactiontype='14'>For home &gt;</button>
+        <ul aria-labelledby="Forhome&gt;-navigation" aria-hidden="true">
+    <li ms.cmpnm='HomePlansPricing'>
+        <a id="HomePlansPricing" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=1" ms.title='HomePlansPricing'>Plans &amp; pricing</a>
+        
+    </li>
+    <li ms.cmpnm='for-households'>
+        <a id="for-households" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/office-365-home" ms.title='for-households'>For households</a>
+        
+    </li>
+    <li ms.cmpnm='for-individuals'>
+        <a id="for-individuals" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/office-365-personal" ms.title='for-individuals'>For individuals</a>
+        
+    </li>
+    <li ms.cmpnm='office-online'>
+        <a id="office-online" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/office-online/documents-spreadsheets-presentations-office-online" ms.title='office-online'>Office Online</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm='ForBusiness'>
+
+        <button id="Forbusiness&gt;-navigation"  aria-expanded="false" ms.title='ForBusiness' ms.interactiontype='14'>For business &gt;</button>
+        <ul aria-labelledby="Forbusiness&gt;-navigation" aria-hidden="true">
+    <li ms.cmpnm='PlansPricing'>
+        <a id="PlansPricing" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2" ms.title='PlansPricing'>Plans &amp; pricing</a>
+        
+    </li>
+    <li ms.cmpnm='Smallbusiness'>
+        <a id="SmallBusiness" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/explore-office-365-for-business" ms.title='Smallbusiness'>Small business</a>
+        
+    </li>
+    <li ms.cmpnm='Enterprise'>
+        <a id="Enterprise" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/enterprise-productivity-tools" ms.title='Enterprise'>Enterprise</a>
+        
+    </li>
+    <li ms.cmpnm='FrontlineWorkers'>
+        <a id="FrontlineWorkers" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/enterprise-firstline-workers" ms.title='FrontlineWorkers'>Firstline workers</a>
+        
+    </li>
+    <li ms.cmpnm='SeeAllBusiness'>
+        <a id="SeeAllBusiness" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/office" ms.title='SeeAllBusiness'>See all business</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm='ForEducation'>
+
+        <button id="Foreducation&gt;-navigation"  aria-expanded="false" ms.title='ForEducation' ms.interactiontype='14'>For education &gt;</button>
+        <ul aria-labelledby="Foreducation&gt;-navigation" aria-hidden="true">
+    <li ms.cmpnm='Studentsteachers'>
+        <a id="Studentsteachers" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/student/office-in-education" ms.title='Studentsteachers'>For students &amp; teachers</a>
+        
+    </li>
+    <li ms.cmpnm='Schools'>
+        <a id="Schools" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/academic/compare-office-365-education-plans" ms.title='Schools'>For schools</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+    <li class="f-sub-menu js-nav-menu" ms.cmpnm='applications'>
+
+        <button id="Applications&gt;-navigation"  aria-expanded="false" ms.title='applications' ms.interactiontype='14'>Applications &gt;</button>
+        <ul aria-labelledby="Applications&gt;-navigation" aria-hidden="true">
+    <li ms.cmpnm='outlook'>
+        <a id="outlook" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook" ms.title='outlook'>Outlook</a>
+        
+    </li>
+    <li ms.cmpnm='onedrive-for-business'>
+        <a id="onedrive-for-business" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/onedrive-for-business/online-cloud-storage" ms.title='onedrive-for-business'>OneDrive</a>
+        
+    </li>
+    <li ms.cmpnm='word'>
+        <a id="word" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/word" ms.title='word'>Word</a>
+        
+    </li>
+    <li ms.cmpnm='excel'>
+        <a id="excel" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/excel" ms.title='excel'>Excel</a>
+        
+    </li>
+    <li ms.cmpnm='powerpoint'>
+        <a id="powerpoint" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/powerpoint" ms.title='powerpoint'>PowerPoint</a>
+        
+    </li>
+    <li ms.cmpnm='onenote'>
+        <a id="onenote" class="js-subm-uhf-nav-link" href="https://www.onenote.com/" ms.title='onenote'>OneNote</a>
+        
+    </li>
+    <li ms.cmpnm='sharepoint'>
+        <a id="sharepoint" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/sharepoint/collaboration" ms.title='sharepoint'>SharePoint</a>
+        
+    </li>
+    <li ms.cmpnm='microsoft-teams'>
+        <a id="microsoft-teams" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/microsoft-teams/group-chat-software" ms.title='microsoft-teams'>Microsoft Teams</a>
+        
+    </li>
+    <li ms.cmpnm='see-all-office-products'>
+        <a id="see-all-office-products" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/products" ms.title='see-all-office-products'>See all Office products</a>
+        
+    </li>
+        </ul>
+        
+    </li>   
+                        
+                    </ul>
+                </div><div class="c-uhf-menu js-nav-menu">
+                    <button id="resources"  aria-expanded="false" aria-haspopup="true" ms.title='Resources'>Resources </button>
+                    <ul class="" aria-labelledby="resources" aria-hidden="true" ms.cmpnm='Resources'>
+    <li ms.cmpnm='CustomerStories'>
+        <a id="CustomerStories" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/office-365-customer-stories-office-testimonials" ms.title='CustomerStories'>Customer stories</a>
+        
+    </li>
+    <li ms.cmpnm='FAQ'>
+        <a id="FAQ" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/microsoft-office-for-home-and-school-faq" ms.title='FAQ'>Frequently asked questions</a>
+        
+    </li>
+    <li ms.cmpnm='InstallOffice'>
+        <a id="InstallOffice" class="js-subm-uhf-nav-link" href="https://go.microsoft.com/fwlink/p/?LinkID=717124" ms.title='InstallOffice'>Install Office</a>
+        
+    </li>
+    <li ms.cmpnm='ITResources'>
+        <a id="ITResources" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/office-for-it-pros" ms.title='ITResources'>IT Pro resources</a>
+        
+    </li>
+    <li ms.cmpnm='officeblog'>
+        <a id="officeblog" class="js-subm-uhf-nav-link" href="https://blogs.office.com" ms.title='officeblog'>Office blog</a>
+        
+    </li>
+    <li ms.cmpnm='SecurityCompliance'>
+        <a id="SecurityCompliance" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/business/office-365-trust-center-welcome" ms.title='SecurityCompliance'>Security &amp; compliance</a>
+        
+    </li>
+    <li ms.cmpnm='SystemRequirements'>
+        <a id="SystemRequirements" class="js-subm-uhf-nav-link" href="https://products.office.com/en-us/office-system-requirements" ms.title='SystemRequirements'>System requirements</a>
+        
+    </li>
+                        
+                    </ul>
+                </div><a id="shellmenu_33" class="c-uhf-nav-link" href="https://templates.office.com/en-us/" ms.title='cat-templates'>Templates</a><a id="shellmenu_34" class="c-uhf-nav-link" href="https://support.office.com/en-us/" ms.title='Support'>Support</a><a id="My account" class="c-uhf-nav-link" href="https://office.live.com/start/MyAccount.aspx" ms.title='My account'>My account</a>            <a id="mobile-" class="c-uhf-nav-link x-hidden x-visible-vp2-block x-visible-vp1-block" href="https://products.office.com/compare-microsoft-office-products?tab=1" ms.title=''>Buy Office 365</a>
+        </nav>
+
+</div>
+
+
+            
+        </div>
+
+    
+</header>
+
+
+    </div>
+            </div>
+
+    </section>
+
+    </div>
+
+    </div>
+
+
+    
+
+
+
+
+
+
+<div id="main" role="main">
+<div id="hero-section" aria-labelledby="hero-header" role="banner">
+    <div class="background-wrapper" aria-hidden="true">
+        <picture>
+            <source srcset="//cin.officehome.msocdn.com/s/bd34d329/images/hero-still-image-mobile.jpg" media="(max-width: 1023px)" alt="" aria-hidden="true">
+            <source srcset="//cin.officehome.msocdn.com/s/94d06390/images/hero-still-image-tablet.jpg" media="(max-width: 1365px)" alt="" aria-hidden="true">
+            <img class="background parallax-item" src="//cin.officehome.msocdn.com/s/9b4a755b/images/hero-still-image-desktop.jpg" alt="" aria-hidden="true" />
+        </picture>
+    </div>
+    <div class="headline-wrapper fade-in-out">
+        <div>
+            <h1 id="hero-header" class="headline" tabindex="0">Welcome to Office</h1>
+            <p class="subtitle" tabindex="0" aria-label="Your place to create, communicate, collaborate, and get great work done.">Your place to create, communicate, collaborate, and get great work done.</p>
+        </div>
+        <div class="button-list-wrapper">
+            <ul class="button-list">
+                <li>
+                    <a id="hero-banner-get-office-link" class="button" href="https://products.office.com/en-US/compare-all-microsoft-office-products?tab=1" role="button" aria-label="Get Office">
+                        Get Office
+                    </a>
+                </li>
+                <li>
+                    
+                    <a id="hero-banner-sign-in-to-office-365-link" class="button" href="https://www.office.com/login?es=Click&ru=%2F" role="button" aria-label="Sign in">
+                        Sign in
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <button id="scroll-button" class="fade-in-out" tabindex="-1"></button>
+</div>    <div id="office-365-commercial-section" aria-labelledby="office-365-commercial-header" role="region">
+        <div class="row">
+            <div class="right-section">
+                <a id="office-365-commercial-learn-more" href="https://products.office.com/en-us/office365?wt.mc_id=AID655227_QSG_BNR_191371&amp;ocid=AID655227_QSG_BNR_191371" target="_blank">
+                    <img src="//cin.officehome.msocdn.com/s/12de5e1b/images/tvpromo-detroitwallpaper.jpg" alt="" aria-hidden="true" />
+                </a>
+            </div>
+            <div class="left-section text">
+                <p id="office-365-commercial-header" class="subtitle" tabindex="0" aria-label="Bring your ideas to life with Office 365">Bring your ideas to life with Office 365</p>
+                <p class="description" tabindex="0" aria-label="Explore how Office 365 helps the people at Detroit Wallpaper Company push their creativity to new heights.">Explore how Office 365 helps the people at Detroit Wallpaper Company push their creativity to new heights.</p>
+                <a id="office-365-commercial-learn-more" class="learn-more-link description" href="https://products.office.com/en-us/office365?wt.mc_id=AID655227_QSG_BNR_191371&amp;ocid=AID655227_QSG_BNR_191371" target="_blank">
+                    <span>Learn more</span><span class="ms-Icon ms-Icon--chevronRight arrow"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+<div id="what-is-office-365-section" aria-labelledby="what-is-office-365-header" role="region">
+    <h1 id="what-is-office-365-header" class="headline animate-before" tabindex="0">What is Office 365?</h1>
+    <div id="apps-section" class="row">
+        <div class="left-section animate-before">
+            <picture>
+                <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/336f2da0/images/whatisoffice365-apps.svg" />
+                <img data-src="//cin.officehome.msocdn.com/s/645d95c5/images/whatisoffice365-apps.png" alt="" aria-hidden="true" />
+            </picture>            
+        </div>
+        <div class="right-section text animate-before">
+            <p class="subtitle" tabindex="0" aria-label="It&#39;s the apps you know and love">It&#39;s the apps you know and love</p>
+            <p class="description" tabindex="0" aria-label="Word, Excel, PowerPoint, Outlook, OneNote, OneDrive—and on your PC, Publisher and Access. Everything you need for home, school, and work.">Word, Excel, PowerPoint, Outlook, OneNote, OneDrive—and on your PC, Publisher and Access. Everything you need for home, school, and work.</p>
+        </div>
+    </div>
+    <div id="up-to-date-section" class="row">
+        <div class="right-section animate-before">
+            <picture>
+                <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/3d474670/images/whatisoffice365-desktop.svg"/>
+                <img data-src="//cin.officehome.msocdn.com/s/6c78609a/images/whatisoffice365-desktop.png" alt="" aria-hidden="true" />
+            </picture>            
+        </div>
+        <div class="left-section text animate-before">
+            <p class="subtitle" tabindex="0" aria-label="It&#39;s always up to date">It&#39;s always up to date</p>
+            <p class="description" tabindex="0" aria-label="With an Office 365 subscription, you get the latest Office apps—both the desktop and the online versions—and updates when they happen.">With an Office 365 subscription, you get the latest Office apps—both the desktop and the online versions—and updates when they happen.</p>
+        </div>
+    </div>
+    <div id="devices-section" class="row">
+        <div class="left-section animate-before">
+            <picture>
+                <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/7bc7c2c3/images/whatisoffice365-devices.svg"/>
+                <img data-src="//cin.officehome.msocdn.com/s/e032acd7/images/whatisoffice365-devices.png" alt="" aria-hidden="true" />
+            </picture>           
+        </div>
+        <div class="right-section text animate-before">
+            <p class="subtitle" tabindex="0" aria-label="It&#39;s on all your devices">It&#39;s on all your devices</p>
+            <p class="description" tabindex="0" aria-label="On your desktop, on your tablet, and on your phone.* Office 365 + your device + the Internet = productivity wherever you are.">On your desktop, on your tablet, and on your phone.* Office 365 + your device + the Internet = productivity wherever you are.</p>
+            <p class="legal" tabindex="0" aria-label="* Yep, all these: Windows devices, Mac, iPad,  iPhone, and Android.">* Yep, all these: Windows devices, Mac, iPad,  iPhone, and Android.</p>
+        </div>
+    </div>
+    <div id="cloud-section" class="row">
+        <div class="right-section animate-before">
+            <picture>
+                <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/ed4e324d/images/whatisoffice365-cloud.svg" />
+                <img data-src="//cin.officehome.msocdn.com/s/1568d506/images/whatisoffice365-cloud.png" alt="" aria-hidden="true" />
+            </picture>            
+        </div>
+        <div class="left-section text animate-before">
+            <p class="subtitle" tabindex="0" aria-label="It&#39;s your great work, in the cloud">It&#39;s your great work, in the cloud</p>
+            <p class="description" tabindex="0" aria-label="OneDrive makes the work you do available to you from anywhere—and to others when you collaborate or share.">OneDrive makes the work you do available to you from anywhere—and to others when you collaborate or share.</p>
+        </div>
+    </div>
+    <div id="support-section" class="row">
+        <div class="left-section animate-before">
+            <picture>
+                <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/55f07fcf/images/whatisoffice365-communication.svg" />
+                <img data-src="//cin.officehome.msocdn.com/s/bb5f1dd3/images/whatisoffice365-communication.png" alt="" aria-hidden="true" />
+            </picture>  
+            
+        </div>
+        <div class="right-section text animate-before">
+            <p class="subtitle" tabindex="0" aria-label="And we&#39;re here for you">And we&#39;re here for you</p>
+            <p class="description" tabindex="0" aria-label="Help at every turn. Email, chat, or call and talk to a real live person.">Help at every turn. Email, chat, or call and talk to a real live person.</p>
+        </div>
+    </div>
+</div><div id="get-office-today-section" class="animate-before" aria-labelledby="get-office-today-header" role="region">
+    <h1 id="get-office-today-header" class="headline" tabindex="0">Get Office today—choose the option that&#39;s right for you</h1>
+    <ul class="button-list" role="navigation">
+        <li>
+            <a id="get-office-today-for-home-link" class="button" href="https://products.office.com/en-US/compare-all-microsoft-office-products?tab=1" aria-label="For home">
+                <span class="text">For home</span>
+                <span class="ms-Icon ms-Icon--chevronRight arrow"></span>
+            </a>
+        </li>
+        <li>
+            <a id="get-office-today-for-business-link" class="button" href="https://products.office.com/en-US/business/compare-office-365-for-business-plans" aria-label="For business">
+                <span class="text">For business</span>
+                <span class="ms-Icon ms-Icon--chevronRight arrow"></span>
+            </a>
+        </li>
+        <li>
+            <a id="get-office-today-edu-link" class="button" href="https://products.office.com/en-US/student/office-in-education" aria-label="For education">
+                <span class="text">For education</span>
+                <span class="ms-Icon ms-Icon--chevronRight arrow"></span>
+            </a>
+        </li>
+    </ul>
+</div>
+    <div id="social-media-section" class="animate-before" aria-labelledby="social-media-header" role="navigation">
+        <div class="wrapper">
+            <span id="social-media-header">Follow Office</span>
+            <a id="social-media-linkedin" href="https://www.linkedin.com/company/3509299" aria-label="Linkedin">
+                <picture>
+                    <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/a81acccc/images/linkedin.svg" />
+                    <img src="//cin.officehome.msocdn.com/s/bf98fb13/images/linkedin.png" aria-hidden="true" alt="" />
+                </picture>
+            </a>
+            <a id="social-media-facebook" href="https://go.microsoft.com/fwlink/p/?LinkID=506743" aria-label="Facebook">
+                <picture>
+                    <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/b3340616/images/facebook.svg" />
+                    <img src="//cin.officehome.msocdn.com/s/b92c4fcf/images/facebook.png" aria-hidden="true" alt="" />
+                </picture>
+            </a>
+            <a id="social-media-twitter" href="https://go.microsoft.com/fwlink/p/?LinkId=506744" aria-label="Twitter">
+                <picture>
+                    <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/9321b9bd/images/twitter.svg" />
+                    <img src="//cin.officehome.msocdn.com/s/101d5902/images/twitter.png" aria-hidden="true" alt="" />
+                </picture>
+            </a>
+            <a id="social-media-instagram" href="https://go.microsoft.com/fwlink/p/?LinkId=524828" aria-label="Instagram">
+                <picture>
+                    <source type="image/svg+xml" srcset="//cin.officehome.msocdn.com/s/bcce9da3/images/instagram.svg" />
+                    <img src="//cin.officehome.msocdn.com/s/8bb68d3c/images/instagram.png" aria-hidden="true" alt=""/>
+                </picture>
+            </a>
+            <a id="social-media-office-blogs-link" href="https://go.microsoft.com/fwlink/p/?LinkID=506712" aria-label="Office blogs">Office blogs</a>
+        </div>
+    </div>
+
+</div>
+
+
+    
+    
+    <div id="pmgDetailFooter" class="log-appear">
+            <section id="footerArea"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
+                    <div id="footerRegion"     data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
+
+    <div  id="footerUniversalFooter" data-m='{"cN":"footerUniversalFooter","cT":"Module_coreui-universalfooter","id":"m1r1a2","sN":1,"aN":"r1a2"}'  data-module-id="Category|footerRegion|footerRegion|footerUniversalFooter|coreui-universalfooter">
+        
+
+<footer id="uhf-footer" class="c-uhff context-uhf"  data-uhf-mscc-rq="false"  data-footer-footprint="en-us/office/officefooter" ms.pgarea='Uhf footer' >
+        <nav class="c-uhff-nav" role="navigation" aria-label="Footer" ms.cmpgrp='Footer nav'>
+            
+                <div class="c-uhff-nav-row">
+                        <div class="c-uhff-nav-group" ms.cmpnm='Learn'>
+                            <h6 class="c-heading-4">Learn</h6>
+                            <ul class="c-list f-bare">
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/windows" ms.title='Learn_Windows'>Windows</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://products.office.com/en-us/home" ms.title='Learn_Office'>Office</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.skype.com/en/" ms.title='Learn_Skype'>Skype</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/outlook-com/?cb=v8ho" ms.title='Learn_Outlook'>Outlook</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://onedrive.live.com/about" ms.title='Learn_OneDrive'>OneDrive</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.msn.com/?ocid=FOO000" ms.title='Learn_MSN'>MSN</a>
+                                        </li>
+
+                            </ul>
+                            
+                        </div>
+                        <div class="c-uhff-nav-group" ms.cmpnm='Devices'>
+                            <h6 class="c-heading-4">Devices</h6>
+                            <ul class="c-list f-bare">
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/surface" ms.title='Devices_MicrosoftSurface'>Microsoft Surface</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/xbox/" ms.title='Devices_Xbox'>Xbox</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/windows/devices" ms.title='Devices_PCandLaptops'>PC and laptops</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/mobile/" ms.title='Devices_Lumia'>Microsoft Lumia</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/Microsoft-Band/en-us" ms.title='Devices_MicrosoftBand'>Microsoft Band</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/microsoft-hololens/en-us" ms.title='Devices_MicrosoftHoloLens'>Microsoft HoloLens</a>
+                                        </li>
+
+                            </ul>
+                            
+                        </div>
+                        <div class="c-uhff-nav-group" ms.cmpnm='Microsoft Store'>
+                            <h6 class="c-heading-4">Microsoft Store</h6>
+                            <ul class="c-list f-bare">
+                                        <li>
+                                            <a class="c-uhff-link" href="https://account.microsoft.com/" ms.title='MicrosoftStore_ViewAccount'>Account profile</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://account.microsoft.com/orders" ms.title='MicrosoftStore_OrderTracking'>Order tracking</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/store/locations/find-a-store" ms.title='MicrosoftStore_RetailStoreLocations'>Store locations</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/p/?LinkID=824764&amp;clcid=0x409" ms.title='MicrosoftStore_Returns'>Returns</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/p/?LinkID=824761&amp;clcid=0x409" ms.title='MicrosoftStore_ShoppingHelp'>Sales &amp; support</a>
+                                        </li>
+
+                            </ul>
+                            
+                        </div>
+                </div>
+                <div class="c-uhff-nav-row">
+                        <div class="c-uhff-nav-group" ms.cmpnm='Downloads'>
+                            <h6 class="c-heading-4">Downloads</h6>
+                            <ul class="c-list f-bare">
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/download" ms.title='Downloads_DownloadCenter'>Download Center</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://support.microsoft.com/en-us/help/17777/downloads-for-windows " ms.title='Downloads_WindowsDownloads'>Windows downloads</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/windows/apps-and-games" ms.title='Downloads_Windows10Apps'>Windows 10 apps</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://store.office.com/en-us/?WT.mc_id=OAN_en-us_MSCOM_ShopforApps-Office" ms.title='Downloads_OfficeApps'>Office apps</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/mobile/apps/lumia/" ms.title='Downloads_LumiaApps'>Microsoft Lumia apps</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads " ms.title='Downloads_InternetExplorer'>Internet Explorer</a>
+                                        </li>
+
+                            </ul>
+                            
+                        </div>
+                        <div class="c-uhff-nav-group" ms.cmpnm='Values'>
+                            <h6 class="c-heading-4">Values</h6>
+                            <ul class="c-list f-bare">
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/diversity/" ms.title='Values_DiversityandInclusion'>Diversity and inclusion</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/accessibility/home" ms.title='Values_Accessility'>Accessibility</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/education" ms.title='Values_MicrosoftinEducation'>Microsoft in education</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/about/philanthropies" ms.title='Values_CorporateCitizenship'>Microsoft philanthropies</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/about/csr" ms.title='Values_CorporateSocialResponsibility'>Corporate social responsibility</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://privacy.microsoft.com/en-us" ms.title='Values_PrivacyatMicrosoft'>Privacy at Microsoft</a>
+                                        </li>
+
+                            </ul>
+                            
+                        </div>
+                        <div class="c-uhff-nav-group" ms.cmpnm='Company'>
+                            <h6 class="c-heading-4">Company</h6>
+                            <ul class="c-list f-bare">
+                                        <li>
+                                            <a class="c-uhff-link" href="https://careers.microsoft.com/" ms.title='Company_Careers'>Careers</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/about" ms.title='Company_AboutMicrosoft'>About Microsoft</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://news.microsoft.com/" ms.title='Company_CompanyNews'>Company news</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/investor/default.aspx" ms.title='Company_Investors'>Investors</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://microsoft.com/research" ms.title='Company_Research'>Research</a>
+                                        </li>
+                                        <li>
+                                            <a class="c-uhff-link" href="https://www.microsoft.com/en-us/sitemap.aspx" ms.title='Company_SiteMap'>Site map</a>
+                                        </li>
+
+                            </ul>
+                            
+                        </div>
+                </div>
+        </nav>
+    <div class="c-uhff-base">
+                <a id="locale-picker-link" class="c-uhff-link c-uhff-lang-selector c-glyph glyph-world" href="https://store.office.com/worldwide.aspx?rs=en-us&amp;returnURL=https%3a%2f%2fwww.office.com%2f&amp;cmapid=2" ms.title='locale_picker(US)'>English (United States)</a>
+
+        <ul role="contentinfo" class="c-list f-bare" ms.cmpgrp='Corp links'>
+                            <li>
+                    <a class="c-uhff-link" href="https://www.microsoft.com/en-us/sitemap1.aspx" data-mscc-ic="false" ms.title='Footer_Sitemap'>Sitemap</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://go.microsoft.com/?linkid=2028325" data-mscc-ic="false" ms.title='Footer_ContactUs'>Contact us</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-mscc-ic="false" ms.title='Footer_PrivacyandCookies'>Privacy &amp; cookies </a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=206977" data-mscc-ic="false" ms.title='Footer_TermsOfUse'>Terms of use</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://www.microsoft.com/trademarks" data-mscc-ic="false" ms.title='Footer_Trademarks'>Trademarks</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://choice.microsoft.com" data-mscc-ic="false" ms.title='Footer_AboutourAds'>About our ads</a>
+                </li>
+
+            <li>&#169; Microsoft 2017</li>
+            
+        </ul>
+    </div>
+    
+</footer>
+
+
+
+
+    </div>
+            </div>
+
+    </section>
+
+    </div>
+
+
+
+    
+    <div id="TraceInfoDiv" style="display: none">SID:5988e805-618a-44dd-b9b7-07c4e1c5ef0b CID:8977e39d-e41d-4193-9045-031bf12163bf AUTH:Unknown GEO:cin IN:OfficeHome_IN_8 DEP:eb6f8a6dbea54f01bd45386483e70a0a FLT:firstrunsmb,airforceone1cf,reactshell FTR: R:Unknown D:2017-11-23 11:16:40Z</div>
+
+    <script type="text/javascript" src="//cin.officehome.msocdn.com/s/9ec999b4/Areas/Home/Content/js/build/bundles/unauth-vendor.js"></script>
+
+    <script type="text/javascript" src="//cin.officehome.msocdn.com/s/abee95fa/Areas/Home/Content/js/build/bundles/unauth.js"></script>
+    <script type="text/javascript" src="//cin.officehome.msocdn.com/s/9d86c3bb/Areas/Home/Content/js/build/bundles/sharedscripts.js"></script>
+
+    <script>
+        $(function() {
+            HomePage.init();
+
+            var cookieConsentBannerNeeded = false;
+
+            // Not encoding this since it is not from user input.
+            var viewType = 'NewUserView';
+
+            function initializeLogging() {
+                
+                var ariaProp = {"ariaTenant":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","ariaCollectorUrl":"https://browser.pipe.aria.microsoft.com/Collector/3.0/","correlationId":"8977e39d-e41d-4193-9045-031bf12163bf","devEnvironment":"Oahu","deploymentEnvironment":"Prod","geoName":"cin","flights":"firstrunsmb,airforceone1cf,reactshell","requestOrigin":"Direct","sessionId":"5988e805-618a-44dd-b9b7-07c4e1c5ef0b","viewType":"NewUserView"};
+                StandaloneAriaLogger.Logger.Initialize(ariaProp)
+
+                
+                var config = {
+                    coreData: {
+                        appId: "www.office.com-unauth",
+                        pageName: "UnauthOhp"
+                    }
+                };
+                awa && awa.init(config);
+            }
+
+            function addUnauthTelemetry(){
+                $('button, a').click(function() {
+                    var elementId = $(this).attr("id");
+                    if (elementId) {
+                        logClick(elementId);
+                    }
+                });
+
+                
+                $('a[role="menuitem"]', '#Productslist').click(function () {
+                    logClick($(this).attr("data-bi-name"));
+                });
+
+                
+                $('a', '#pmgDetailFooter').click(function () {
+                    if (!$(this).attr("id"))
+                    {
+                        logClick((this).attr("data-bi-name"));
+                    }
+                });
+
+                logPageView();
+            }
+
+            function logUnauthTelemetry() {
+                initializeLogging();
+                addUnauthTelemetry();
+            }
+
+            if (cookieConsentBannerNeeded && mscc) {
+                mscc.on("consent", logUnauthTelemetry);
+            } else {
+                logUnauthTelemetry();
+            }
+
+            function logClick(controlId) {
+                StandaloneAriaLogger.Logger.LogUnauthEvent(StandaloneAriaLogger.KnownEvents.unauth_click, viewType, controlId);
+            }
+
+            function logPageView() {
+                // TODO: We are logging element ID here to keep backward compatibility, see if this can be removed in favor of a message.
+                StandaloneAriaLogger.Logger.LogUnauthEvent(StandaloneAriaLogger.KnownEvents.unauth_page_view, viewType);
+            }
+        });
+    </script>
+
+    
+<script src="https://statics-uhf-eas.akamaized.net/shell/_scrf/js/themes=default/65-b64f07/a1-364b6a/9b-04c7b5/94-c7571b/93-f6bcbc/e2-0cd2bd/df-ac3a5d/f8-12da4f/8f-f033f5/d7-a468cf/30-c7f19e/83-27d69b/d3-98f8d4/38-3e4ced/47-e4ee1a/25-6ad0dd/c0-c8b4ed/2a-ceb780/90-983300/86-f86924/c7-c8c03b/89-fc72b0/6b-74bd4a/c9-68c037/5a-d0f1c2/46-2b75bc/7a-bc967b/73-bab445/d4-ed3c97/a5-b65913/8c-9ddf90?ver=2.0&iife=1"></script><script src="https://mem.gfx.ms/meversion?partner=office&market=en-us"></script>
+    <script>
+        var signInUrl = 'https://www.office.com/login?es=Click&amp;ru=%2F';
+
+        function setShellOptions(shellOptions) {
+
+            if (window.msCommonShell) {
+                window.msCommonShell.load(shellOptions);
+                console.log('shell loaded');
+            }
+            else {
+                window.onShellReadyToLoad = function () {
+                    window.onShellReadyToLoad = null;
+                    window.msCommonShell.load(shellOptions);
+                    console.log('shell loaded');
+                }
+            }
+        }
+
+        
+        var SendMeControlSignInEvent = function() {
+            awa && awa.isInitialized && awa.ct.capturePageAction($("#meControl"), { isManual: true, behavior: awa.behavior.SIGNIN, actionType: awa.actionType.CLICKLEFT });
+
+            if (typeof StandaloneAriaLogger !== "undefined" && typeof StandaloneAriaLogger.Logger !== "undefined" && typeof StandaloneAriaLogger.Logger.LogUnauthEvent != "undefined") {
+                var viewType = 'NewUserView';
+                StandaloneAriaLogger.Logger.LogUnauthEvent(StandaloneAriaLogger.KnownEvents.unauth_click, viewType, 'meLnkSignin');
+            }
+        }
+
+        function SetConsent() {
+            var cookieConsentBannerNeeded = false;
+            if (cookieConsentBannerNeeded) {
+                var mscc = window.mscc;
+                if (mscc && !mscc.hasConsent()) {
+                    mscc.setConsent();
+                }
+            }
+        }
+
+        var shellOptions = {
+                meControlOptions: {
+                    rpData: {
+                        aadInfo: {
+                            signInUrl: signInUrl,
+                            signOutUrl: 'https://login.microsoft.com/logout.srf'
+                        },
+                        msaInfo: {
+                            meUrl: null
+                        },
+                        preferredIdp: "aad"
+                    },
+                    events: {
+                        onEventLog: function(eventId) {
+                            
+                            switch (eventId) {
+                                case "SignIn":
+                                    SetConsent();
+                                    SendMeControlSignInEvent();
+                                    break;
+                                default:
+                                    return;
+                            }
+                        }
+                    }
+                }
+            };
+
+        setShellOptions(shellOptions);
+
+    </script>
+
+    <script type="text/javascript">
+        var aadUserForgetUrlFormat = "https://login.microsoftonline.com/forgetuser?sessionid="
+    </script>
+
+    
+
+</body>
+</html>

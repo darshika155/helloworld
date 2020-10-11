@@ -1,1 +1,3 @@
 Methods To handle the API request
+
+Get REquest @GetMapping
